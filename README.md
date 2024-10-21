@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rezamasoudi" target="blank"><img src="https://img.shields.io/badge/Linkedin-rezamasoudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rezamasoudi" /></a> </p>
 
-
-- 🌱 I’m currently Working on Laravel APIs
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Database & Improving performance knowledge
-
-- 💬 Ask me about **PHP & Laravel**
-
-- 📫 How to reach me **dev.masoudi@gmail.com**
   <br/>
   <h3 align="center" > <img src="https://github.com/rezamasoudi/sieve/assets/109284641/c84d7ea8-c11c-4312-a054-7befb8e75d36" width="30" height="30" style="margin-right: 10px;">
   Connect with me 🤝 </h3>
